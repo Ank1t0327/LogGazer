@@ -1,0 +1,8 @@
+FAILED LOGIN ATTEMPTS REPORT - Friday 30 May 2025 09:05:05 PM IST
+----------------------------------------
+May 30 14:02:21 | User: admin | IP: 192.168.0.5
+May 30 14:03:10 | User: root | IP: 192.168.0.8
+May 30 14:06:50 | User: test | IP: 192.168.0.9
+
+TOP BRUTE-FORCE IPs (3 or more failures):
+------------------------------------------
